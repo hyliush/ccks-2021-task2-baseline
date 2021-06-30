@@ -39,6 +39,6 @@ main file to run on local device.
 - 3.char and bigram embedding  can be downloaded from [Flat](https://github.com/LeeSureman/Flat-Lattice-Transformer)
 - 4.Flat model achieves 87.93, cross validate:88.73, pseudo-labelling: 89.73
 - 5.char-bigram-bilstm 86.88
-- 6.[biaffine-ner]https://github.com/amir-zeldes/biaffine-ner, 81.63
+- 6.[biaffine-ner](https://github.com/amir-zeldes/biaffine-ner), 81.63
 - 7.our provided model(char-bigram-bert-bilstm-crf) 90+
 
